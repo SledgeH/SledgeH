@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SledgeH
 - 👀 I’m interested in software development
 - 🌱 I’m currently delving into coding.
-- 💞️ I’m looking to collaborate on anything that will help me better understand coding.
+- 💞️ I’m looking to collaborate on anything that will help me better understand coding and help people.
 - 📫 How to reach me: Eric.W.Richar@gmail.com
 
 <!---
