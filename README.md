@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SledgeH
-- 👀 I’m interested in software development
-- 🌱 I’m currently delving into coding.
-- 💞️ I’m looking to collaborate on anything that will help me better understand coding and help people.
+- 👀 I’m interested in cybersecurity.
+- 🌱 I’m currently delving into Microsoft Azure Fundamentals and IT fundamentals. 
+- 💞️ I’m looking to collaborate on anything that will help me better understand Cybersecurity and IT.
 - 📫 How to reach me: Eric.W.Richar@gmail.com
 
 <!---
